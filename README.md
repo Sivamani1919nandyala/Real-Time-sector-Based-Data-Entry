@@ -1,6 +1,5 @@
 A real-time sector-based data entry and export application using React.js, Node.js, Express.js, MongoDB, and Socket.io. It supports Excel (.xlsx) and PDF (.pdf) exports with authentication.
-
-🔧 Features
+Features
 ✅ User Authentication (JWT)
 ✅ Real-time Data Entry (Socket.io)
 ✅ Sector-based Data Management
@@ -8,7 +7,7 @@ A real-time sector-based data entry and export application using React.js, Node.
 ✅ REST API with MongoDB
 ✅ Secure Routes & Middleware
 📂 Project Setup
-🔹 Prerequisites
+ Prerequisites
 Node.js (Download from Node.js official site)
 MongoDB (Use MongoDB Atlas or local MongoDB)
 Git (Install from Git website)
